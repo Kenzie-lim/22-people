@@ -1,5 +1,10 @@
 # 22-people
+  
+**TL;DR:**
+  
+22 past relationships × 57 features → XGBoost, Monte Carlo simulation, Random Forest. Baseline probability of finding an "ideal type" among people I'm already attracted to: 17.3% — but one point of compromise doubles it. A decision tree learned my romantic priorities before I could articulate them. The most important thing I learned wasn't in the model output: knowing your pattern doesn't make you immune to it.
 
+---
 A few years ago I took [mgram](https://mgram.me), a personality test out of Japan that estimates how likely you are to find a compatible partner. My result: **0.00029%**. To meet just one person compatible with me, I'd need to meet roughly **345,000 people**.
 
 At the time, this didn't scare me. I had a partner — someone I loved enough to consider leaving behind a career, a country, a language, an entire life I'd built. None of these were things I had ever imagined being willing to lose. I didn't know I was the kind of person who could want that until I did. So I looked at that number and thought: I already beat it.
