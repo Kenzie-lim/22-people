@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.pyc
+love_data.csv
+REALDATA.csv
+*.numbers
