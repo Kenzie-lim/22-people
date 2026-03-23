@@ -22,6 +22,7 @@ So I made a spreadsheet. 22 people. 57 columns. Everything from humor to scent t
 The question was simple: **what makes someone my type?** The answer was not simple.
 
 ## What's in here
+<img width="714" height="714" alt="Screenshot 2026-03-23 at 10 44 02 PM" src="https://github.com/user-attachments/assets/e2d2809d-c2a6-494c-a939-9e5856250c06" />
 
 A full ML pipeline applied to a personal relationship dataset: EDA, feature selection, Monte Carlo simulation, compromise analysis, and reverse-engineered ideal profiles.
 
